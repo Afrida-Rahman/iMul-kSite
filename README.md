@@ -6,7 +6,7 @@ Identification of post-translational modifications (PTM) is significant in the s
 
 ### Installation guide
 
-  1. `git clone https://github.com/Sabit-Ahmed/iMul-kSite.git`
+  1. `git clone https://github.com/Afrida-Rahman/iMul-kSite.git`
   2. 'cd iMul-kSite`
   3. 'pip install -r requirements.txt`
   4. `cd model/IFS_implementation` and run `python Com_IFS.py` for incremental feature selection experiment.
